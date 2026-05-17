@@ -9,6 +9,8 @@ plugins:
       - ANDROID_TESTSUITE
       - WEB
       - TVHTML5EMBEDDED
+      - ANDROID
+      - MUSIC
 
 lavalink:
   server:
